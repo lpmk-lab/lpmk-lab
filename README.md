@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**lpmk-lab/lpmk-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇲🇲 I'm from [Myanmar (Burma)][country].
+- 💻 Happy coding!
 
-Here are some ideas to get you started:
+### My Github Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+[![La Pyae's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpmk-lab&theme=blueberry&show_icons=true&locale=en)](https://github.com/lpmk-lab)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpmk-lab&layout=compact&theme=blueberry)](https://github.com/lpmk-lab)
+
+[country]: https://en.wikipedia.org/wiki/Myanmar
