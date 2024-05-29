@@ -2,7 +2,7 @@
 
 - 🇲🇲 I'm from [Myanmar (Burma)][country].
 - 💻 Happy coding!
-- Now Learning (.Net Core)
+- Now Learning (.NoteJS)
 
 ### My Github Status
 
