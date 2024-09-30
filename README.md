@@ -3,7 +3,7 @@
 - 🇲🇲 I'm from [Myanmar (Burma)][country].
 - 💻 Happy coding!
 - Now Learning (.ReactJS)
-- If you want to hire ,I am free to work now!
+- If you want to hire me,I am free to work now!
 - profolio link -https://reactprofolio.vercel.app/
 ### My Github Status
 
